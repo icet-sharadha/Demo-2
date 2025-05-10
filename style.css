@@ -1,3 +1,14 @@
-*{
-    color: aqua;
+h1{
+    background-color: brown;
+}
+
+ #title{
+    background-color: aqua;
+}
+
+.group1{
+   background-color: aqua; 
+}
+.group2{
+   background-color: brown; 
 }
